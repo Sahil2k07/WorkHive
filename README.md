@@ -10,7 +10,7 @@ WorkHive is a platform where users can create two types of accounts: Students an
 
 This system streamlines the process of job searching for students and simplifies job posting and recruitment for companies.
 
-### [Access the BackEnd Here on GitHub](https://github.com/Sahil2k07/WorkHive.git)
+### [Access the BackEnd Here on GitHub](https://github.com/Sahil2k07/WorkHive-NestJS.git)
 
 ## Tech Used
 
@@ -93,7 +93,7 @@ This system streamlines the process of job searching for students and simplifies
 
 1. Ensure that you have set up the BackEnd First.
 
-   #### [Access the BackEnd Here on GitHub](https://github.com/Sahil2k07/WorkHive.git)
+   #### [Access the BackEnd Here on GitHub](https://github.com/Sahil2k07/WorkHive-NestJS.git)
 
 2. Clone the repository to your local machine:
 
